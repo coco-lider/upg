@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Mouse RGB Pro",
+    "price": 89000,
+    "originalPrice": 120000,
+    "rating": 5,
+    "image": "/placeholder.svg?height=200&width=200",
+    "category": "mouse",
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard RGB",
+    "price": 156000,
+    "originalPrice": 200000,
+    "rating": 4,
+    "image": "/placeholder.svg?height=200&width=200",
+    "category": "keyboard"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Headset Pro",
+    "price": 78000,
+    "originalPrice": 95000,
+    "rating": 5,
+    "image": "/placeholder.svg?height=200&width=200",
+    "category": "headset"
+  },
+  {
+    "id": 4,
+    "name": "RGB Gaming Chair",
+    "price": 450000,
+    "originalPrice": 550000,
+    "rating": 4,
+    "image": "/placeholder.svg?height=200&width=200",
+    "category": "chair"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Monitor 27\"",
+    "price": 320000,
+    "originalPrice": 380000,
+    "rating": 5,
+    "image": "/placeholder.svg?height=200&width=200",
+    "category": "monitor"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Gaming Mouse",
+    "price": 125000,
+    "originalPrice": 150000,
+    "rating": 4,
+    "image": "/placeholder.svg?height=200&width=200",
+    "category": "mouse"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Microphone",
+    "price": 67000,
+    "originalPrice": 85000,
+    "rating": 4,
+    "image": "/placeholder.svg?height=200&width=200",
+    "category": "microphone"
+  },
+  {
+    "id": 8,
+    "name": "Gaming Controller Pro",
+    "price": 89000,
+    "originalPrice": 110000,
+    "rating": 5,
+    "image": "/placeholder.svg?height=200&width=200",
+    "category": "controller"
+  }
+]
