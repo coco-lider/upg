@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Loyaut = () => {
+const NotFund = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Loyaut = () => {
   )
 }
 
-export default Loyaut
+export default NotFund
